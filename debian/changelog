@@ -1,0 +1,5 @@
+ruby-faraday (0.9.2-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)
+
+ -- Julien Vanier <monkbroc@julien-xps13>  Thu, 27 Oct 2016 16:15:59 -0400
